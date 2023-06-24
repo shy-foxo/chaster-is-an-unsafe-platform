@@ -1,8 +1,8 @@
 <h1 align="center">Chaster; A Great Platform That Does Not Care</h1>
 
-> This is going be a long read, if you do not wish to read it all their is a [TLDR]() at the bottom.
+> This is going be a long read, if you do not wish to read it all their is a [TLDR](https://github.com/shy-foxo/chaster-is-an-unsafe-platform) at the bottom.
 
-Chaster is a Chasity lock holding website, arguably one of the best ones out there. Between its user friendly UI, useful features and games, the ability to work across PC and mobile devices its no wounder it has gained massive popularity. However, things are not all sunshine and rainbows. Chaster lacks some basic user safety tools and in one case has even outright declined adding a safety feature. Lets talk about it!
+Chaster is a Chasity lock holding website, arguably one of the best ones out there. Between its user friendly UI, useful features and games, the ability to work across PC and mobile devices its no wounder it has gained massive popularity. Chaster lacks some basic user safety tools and in one case has a moderator has even stated they do not want safety features added. Lets talk about it!
 
 <h1 align="center">The Lack of a Blocking Function</h1>
 
@@ -112,7 +112,7 @@ Even then, Vince has left some of messages and questions unanswered. I asked him
 
 <h1 align="center">Too Long, didn't Read</h1>
 
-Phew okay that was a lot, now for the short version! Chaster is Chasity holding platform that has been around for about two and a half years. Despite this, and the fact that people have been asking for basic user safety tools like a blocking function [for over a year]() Chaster has still not made it a top priority and is only committing to working on it Q4 this year. An emergency unlock option has also been requested over 2 years ago but it still has not been added, with one of the moderators stating [they do not even believe it is a good idea to have an emergency unlock option at all](). Chaster has also lacked good communication as of late to their development plans with the only recent news being a change to make findom require a chaster plus subscription to even use the website for findom use. This is on top of the restriction of not being allowed to reach out to other wearers as they can be terminated.
+Phew okay that was a lot, now for the short version! Chaster is Chasity holding platform that has been around for about two and a half years. Despite this, and the fact that people have been asking for basic user safety tools like a blocking function [for over a year](https://cdn.discordapp.com/attachments/833171605366243330/1121883459875516497/Discord_vSRvuRuHgt.png) Chaster has still not made it a top priority and is only committing to working on it Q4 this year. An emergency unlock option has also been requested over 2 years ago but it still has not been added, with one of the moderators stating [they do not even believe it is a good idea to have an emergency unlock option at all](https://cdn.discordapp.com/attachments/833171605366243330/1121914696325406862/brave_hmBfNkJDKO.png). Chaster has also lacked good communication as of late to their development plans with the only recent news being a change to make findom require a chaster plus subscription to even use the website for findom use. This is on top of the restriction of not being allowed to reach out to other wearers as they can be terminated.
 
 This has left me, and several other users to grow frustrated at the platform causing them to feel unsafe and leave all together.
 
