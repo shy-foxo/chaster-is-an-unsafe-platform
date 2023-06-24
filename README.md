@@ -1,6 +1,6 @@
 <h1 align="center">Chaster; A Great Platform That Does Not Care</h1>
 
-> This is going be a long read, if you do not wish to read it all their is a [TLDR](https://github.com/shy-foxo/chaster-is-an-unsafe-platform) at the bottom.
+> This is going to be be a very long read, their is a [TLDR](https://github.com/shy-foxo/chaster-is-an-unsafe-platform) at the bottom.
 
 Chaster is a Chasity lock holding website, arguably one of the best ones out there. Between its user friendly UI, useful features and games, the ability to work across PC and mobile devices its no wounder it has gained massive popularity. However, not everything is rainbows and sunshine. Chaster lacks some basic user safety tools and in one case, a moderator has even stated they do not want safety features added. Lets talk about it!
 
