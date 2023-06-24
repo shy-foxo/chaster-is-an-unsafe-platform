@@ -124,7 +124,7 @@ Although Chaster is one of the better Chasity holding platform in some regards i
 
 This is one of the older website in the Chasity holding space. For better or for worse the website is a bit, quirky but it at least has themes. Some features are very customizable like the wheel of fortune but in order to use interactive elements with other users you need to verify yourself. In order to do this you need to verify yourself with a digital ID or spend a few dollars to verify with a selfie or a photo of a government issued ID. YIkes! But given this website has an emergency password option and you cant chat with others unless you verify this seems like the next best option for most users. 
 
-#### [teamlocked.men/](https://teamlocked.men/)
+#### [teamlocked.men](https://teamlocked.men/)
 
 This site is more like a social media then a lock holding website. You can not even submit a photo or a lock code to lock up with. However user profiles are the most expanded upon in any Chasity related platforms I have seen. Heck you can even make blog posts! Interestingly, this is made by the same team as emlalock but feels completely different. This is more calendar based as well then any other platform. Not to menton their are some cool games to play around with. This is a decent option if you are okay not having your keys locked away under a lock box or code.
 
