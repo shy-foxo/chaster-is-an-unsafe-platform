@@ -77,7 +77,7 @@ Lastly, I want to mention the option to submit your own code is "planned". This 
 
 <h1 align="center">The Handling of Findom Locks</h1>
 
-Another recent issue Chaster has had has been Findom locks. If you have no idea what a Findom is, that is okay! The first screen shot gives a good explainer of what a Findom is better then I can explain it.
+Another recent issue plaguing Chaster has been Findom locks. If you have no idea what a Findom is, that is okay! The first screen shot gives a good explainer of what a Findom is better then I can explain it.
 
 ![findom explained from the urban dictionary](https://cdn.discordapp.com/attachments/833171605366243330/1121936387558608907/brave_BrzA2JswBR.png)
 
@@ -93,58 +93,58 @@ If their is money to be made, then buying Chaster plus is just the cost of doing
 
 Solving this issue this way just feels rushed and I am unsure this is the best way to tackle this issue. This could be seen as a better approach then outright banning the Findoms from using the platform but, Chaster is still really restrictive about it. They also state that if a marked Findom reaches out to you first, then they could get their account terminated. I asked a friend who does Findom from time to time and their opinion on the matter? Not only did they say "it's stupid" but they also agreed that bad actors could pay for Chaster plus and that it might cause users to mistake them as trust worthy.
 
-Not to mention you could pay for Chaster plus and no one might use any of your locks, nor could you reach out to other users for risk of being terminated. I do think making locks more clear that they are Findom locks is a good change. Only time will tell if this change works out as intended as currently the deadline has not been reached. If you want to learn more about these changes I highly recommend looking at their [documentation and faq](https://docs.chaster.app/locks/findom/) on the subject.
+Not to mention you could pay for Chaster plus and no one might ever use any of your locks, nor could you reach out to other users for risk of being terminated. I do think making locks more clear that they are Findom locks is a good change. Only time will tell if this change works out as intended as currently the deadline has not been reached. If you want to learn more about these changes I highly recommend looking at their [documentation and faq](https://docs.chaster.app/locks/findom/) on the subject.
 
 <h1 align="center">Chaster's Lack of Communication</h1>
 
-Chaster also lacks good communication, especially from the development team. For example, a lot of these augments could be countered with the site is still in beta. However, the site is no longer in beta. When this change occurred I have no idea, it was changed overnight. This change was made sometime between April 18 2022 and June 4th 2023.
+Chaster also lacks good communication, especially from the development team. For example, a lot of these augments could be countered with the site is still in beta. However, the site is no longer in beta. When this change occurred I have no idea, it was changed overnighte sometime between April 18 2022 and June 4th 2023.
 
 ![Chaster's change log with the dates pointed out](https://cdn.discordapp.com/attachments/833171605366243330/1121970530816368750/k16X0XOvdI.png)
 
-What happened between update 0.24 and beta 12.5 is anyone's guess. One would think that moving out of beta would be huge news or, at least worthy of some kind of announcement. However, none was made at all. As for why Chaster moved out of beta silently is something I can only speculate on. Presumably, this was changed to make the platform feel more finished and to make it feel like you are truly buying into a service and not a early beta. But as far as I am aware, the website still suffers from slow at loading, getting caught/hung up while loading, the chat feature being buggy and not always sending notifications correctly, and the pillory page still slides all the controls up when you scroll without a button to get back to the top of the page. Whatever the reason, the move to do this silently raises some red flags.
+What happened between update 0.24 and beta 12.5 is anyone's guess. One would think that moving out of beta would be huge news or, at least worthy of some kind of announcement. However, none was made at all. As for why Chaster moved out of beta silently is something I can only speculate on. Presumably, this was changed to make the platform feel more finished and more like a complete service and not a early beta. But as far as I am aware, the website still suffers from slow at loading, getting caught/hung up while loading, the chat feature being buggy and not always sending notifications correctly, and the pillory page still slides all the controls up when you scroll without a button to get back to the top of the page. Whatever the reason, the move to do this silently raises some red flags.
 
 Blocking feature? People have been wanting for more then a year, emergency unlock? That has been 2 years. Not to mention, their has been no clear public announcements as to what, if anything is currently under development. The last Development news, aside from the recent findom update, was a community meeting back in November 2022. There has also not been any public update as to why safety features are taking years to be developed outside of my conversations directly with Vince. 
 
-Even then, Vince has left me with unread messages and questions unanswered. I asked him why it felt like development resources where being spent in ways to push new features instead of safety systems. I received no response. I also asked/stated that communication felt lacking and that any feedback I give feel like they land on deaf ears. Their was no reply. It would be really nice if their was more communication and transparency with development and things behind the scenes. But until, this is what we are left with.
+Even then, Vince has left me with unread messages and questions unanswered. I asked him why it felt like development resources where being spent in ways to push new features and subscriptions instead of safety systems. I received no response. I also asked/stated that communication felt lacking and that any feedback I give felt like it was landing on deaf ears. Their was no reply. It would be really nice if their was more communication and transparency with development and things behind the scenes. But until, this is what we are left with.
 
 <h1 align="center">Too Long, didn't Read</h1>
 
-Phew okay that was a lot, now for the short version! Chaster is Chasity holding platform that has been around for about two and a half years. Despite this, and the fact that people have been asking for basic user safety tools like a blocking function [for over a year](https://cdn.discordapp.com/attachments/833171605366243330/1121883459875516497/Discord_vSRvuRuHgt.png) Chaster has still not made it a top priority and is only committing to working on it Q4 this year. An emergency unlock option has also been requested over 2 years ago but it still has not been added, with one of the moderators stating [they do not even believe it is a good idea to have an emergency unlock option at all](https://cdn.discordapp.com/attachments/833171605366243330/1121914696325406862/brave_hmBfNkJDKO.png). Chaster has also lacked good communication as of late to their development plans with the only recent news being a change to make findom require a chaster plus subscription to even use the website for findom use. This is on top of the restriction of not being allowed to reach out to other wearers as they can be terminated.
+Phew! That was a lot, now for the short version! Chaster is Chasity holding platform that has been around for about two and a half years. Despite this, and the fact that people have been asking for basic user safety tools like a blocking function [for over a year](https://cdn.discordapp.com/attachments/833171605366243330/1121883459875516497/Discord_vSRvuRuHgt.png) Chaster has still not made it a top priority and is only committing to working on it Q4 this year. An emergency unlock option has also been requested for over 2 years but it still has not been added, with one of the moderators stating [they do not even believe it is a good idea to have an emergency unlock option at all](https://cdn.discordapp.com/attachments/833171605366243330/1121914696325406862/brave_hmBfNkJDKO.png) despite the fact the suggestion received over 99 upvotes. Chaster has also lacked good communication lately as to their development plans, with the only recent news being Findoms now require a chaster plus subscription to even use the website for findom use. This is on top of the restriction of not being allowed to reach out to other wearers as they can be terminated.
 
-This has left me, and several other users to grow frustrated at the platform causing them to feel unsafe and leave all together.
+This has left me, and several other users to grow frustrated at the platform causing them to feel unsafe and leave all together, all the while the site continues to make money.
 
 <h1 align="center">Alterative Platforms</h1>
 
-Although Chaster is one of the better Chasity holding platform in some regards it is far from the only one. If you do not want to use Chaster their are other here are some other platforms you can use instead: 
+Although Chaster is one of the better Chasity platforms in terms of features, it is far from the only Chasity platform. Here are some of the alternatives:
 
 #### [emlalock](https://www.emlalock.com/)
 
-This is one of the older website in the Chasity holding space. For better or for worse the website is a bit, quirky but it at least has themes. Some features are very customizable like the wheel of fortune but in order to use interactive elements with other users you need to verify yourself. In order to do this you need to verify yourself with a digital ID or spend a few dollars to verify with a selfie or a photo of a government issued ID. YIkes! But given this website has an emergency password option and you cant chat with others unless you verify this seems like the next best option for most users. 
+This is one of the older platforms in the Chasity holding space. The website is a bit quirky but it also has themes. Some features are very customizable like the wheel of fortune but, in order to use interactive elements with other users you need to verify yourself. In order to do this you need to verify yourself with a digital ID or spend a few dollars to verify with a selfie or a photo of a government issued ID. Yikes! But given this website has an emergency password option and you can not chat with others unless you verify. If you do not mind this verification system then this might be your next best option.
 
 #### [teamlocked.men](https://teamlocked.men/)
 
-This site is more like a social media then a lock holding website. You can not even submit a photo or a lock code to lock up with. However user profiles are the most expanded upon in any Chasity related platforms I have seen. Heck you can even make blog posts! Interestingly, this is made by the same team as emlalock but feels completely different. This is more calendar based as well then any other platform. Not to menton their are some cool games to play around with. This is a decent option if you are okay not having your keys locked away under a lock box or code.
+This site is more like social media then a lock holding website. You can not submit a photo or a lock code with your lock. However user profiles are the most expanded upon in any Chasity related platforms I have seen. Heck you can even make blog posts! Interestingly, this is made by the same team as emlalock but feels completely different nor does it have the awful verification system. This is more calendar based then any other platform. Not to menton their are some cool games to play around with. This is a decent option if you are okay not having your keys locked away under a lock box or code.
 
 
 #### [chastisafe](https://chastisafe.com/#help)
 
-This is another very intriguing website. This is very Discord centered, it does not have its own accounts, it uses your Discord account instead. The UI is lackluster and is a pain to use on mobile. However, it really plays into the game aspect like no other site. You can create complex card games around your lock ups. If you are okay with the UI and want to learn more this could be an excellent option. Oh did we mention it also lets you block users?
+This is another very intriguing website. It is very Discord centered, it does not have its own accounts, it uses your Discord account instead. The UI is lackluster and is a pain to use on mobile. However, it really plays into the game aspect like no other site. You can create complex card games around your lock ups. If you are okay with the UI and want to learn more this could be an excellent option. Oh did we mention it also lets you block users?
 
 
 #### [Chastilock](https://twitter.com/Chastilock)
 
-This seems to be a new platform that aside from this twitter profile we do not know much about. Figured it was worth mentioning.
+This seems to be a new platform, aside from this twitter profile I can not find any more information about it, figured it was worth mentioning.
 
 #### [Lock-bot](https://sharing.clickup.com/9003150356/b/h/6-900302002559-2/f0d9effd2334748)
 
-This is my own project so I left it for last. Its a safety first focused Discord bot that only supports self locks but already has support for blocking and an emergency unlock. Only time will tell if this project becomes a viable option.
+This is my own project so I left it for last. Its a safety first focused Discord bot, currently only supports self locks but already has support for blocking and an emergency unlock. Only time will tell if this project becomes a viable option.
 
-These are all the other options I know about, feel free to let me know if I missed any, I would genuinely be curious to hear about more!
+These are all the other options I am aware of, feel free to let me know if I missed any, I would genuinely be curious to hear about more!
 
 <h1 align="center">Closing Thoughts</h1>
 
-To me it is a shame that Chaster is this way. It gets so many things right but yet gets so many basic user safety features wrong. Chaster feels like its suck in a weird place, in between making money and making enough money to support a full time developer. Despite this and the fact the platform grew faster then anticipated it is incredibly frustrating to see Chaster not shift its gears towards user safety and remain at this "good enough" but not fully state for such a long time. 
+It's a shame Chaster is this way. It gets so many things right and yet gets so many basic user safety features wrong. Chaster feels like its suck in a weird place, in between making money and making enough money to support someone working on it full time. Despite this and the fact the platform grew faster then anticipated, it is incredibly frustrating to see Chaster not shift its gears towards user safety and remain at this "good enough" state for such a long time. I wish things would imporve, but I am not holding my breath for it.
 
-I would also like to make it clear that reason for this document is just to push Chaster to take user safety more seriously and to make steps in the right direction. I do not want for it to come to this but I feel my voice is not heard otherwise. I am not doing for this personal gain, just for the safety of others nor am i trying to rip apart any kind of community, I just want to see a meaningful change. 
+I would also like to make it clear the reason for this document is to push Chaster to take user safety more seriously and to make steps in the right direction. I did want for it to come to this but I feel my voice is not heard. I am not doing for this personal gain, just for the safety of others, nor am I trying to rip apart any community, I just want to see a meaningful change.
 
-If you read it this far, thank you so much, I hope it was worth the read and incite. If you would like to talk to me reach reach out to me at Shy_fox on chaster, I still read my DMs even if I no longer use the platform or [create an issue on github](https://github.com/shy-foxo/chaster-is-an-unsafe-platform/issues/new). 
+If you read it this far, thank you so much, I hope it was worth the read and incite. If you would like to talk to me reach reach out to me at Shy_fox on chaster, I still read my DMs even if I no longer use the platform or [create an issue on github](https://github.com/shy-foxo/chaster-is-an-unsafe-platform/issues/new).
