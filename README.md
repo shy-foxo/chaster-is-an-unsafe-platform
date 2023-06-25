@@ -59,15 +59,15 @@ This is because Chaster assumes you have some means to lock your keys up with, n
 
 ![user suggesting emergency unlock option](https://cdn.discordapp.com/attachments/833171605366243330/1121901025079599165/brave_3MCFEW3HSJ.png)
 
-But this suggestion was denied, because it will be abused by people not serious about Chastity! I can understand that this suggestion is not perfect because it leaves the lock "frozen" instead of ending it. Currently, if you end your lock Chaster labels it as "Abandoned" and will NOT return your lock code. Your only options around this is to rely on a hygiene opening as your emergency unlock, make an alt account and give it keyholder permissions to let yourself out, or ask the Chaster moderation team for the code. 
+But this suggestion was denied, because it will be abused by people not serious about Chastity! I can understand that this suggestion is not perfect because it leaves the lock "frozen" instead of ending it. Currently, if you end your lock early, Chaster labels it as "Abandoned" and will NOT return your lock code. Your only options around this is to rely on a hygiene opening as your emergency unlock, make an alt account and give it keyholder permissions to let yourself out, or ask the Chaster moderation team for the code. 
 
 Surely Chaster lets you select no option at all right? Wrong! In fact, someone else suggested this and wouldn't you know it, that suggest was also denied.
 
 ![The above suggestion](https://cdn.discordapp.com/attachments/833171605366243330/1121904989246332969/brave_gsVMC2TXxD.png)
 
-This infuriates me. This is not a "very edge case". Lots of users, I would argue probably most, get a lock box *after* they get a cage or other Chasity device. Assuming that everyone has a method to lock their keys up is bonkers. If anything, wouldn't inexperienced users need the option to unlock at a moments notice __even more__ then an experienced user? Coding wise, the only thing that should be stopping this from existing is removing the code being requirement before starting a lock and making sure the program can expect no code when it would normally show the user a code. That's about it.
+This infuriates me. This is not a "very edge case". Lots of users, I would argue probably most, get a lock box *after* they get a cage or other Chasity device. Assuming that everyone has a method to lock their keys up is bonkers. If anything, wouldn't inexperienced users need the option to unlock at a moments notice __even more__ then an experienced user? Coding wise, the only thing that should be stopping this from existing is removing the code as a requirement to start a lock and making sure the program can expect no code when it would normally show the user a code. That's about it.
 
-At the very least, it is good that their is the option of going to the moderator team to ask for a code if need be. It is worth mentioning that reaching out to the moderation team is not very clearly listed anywhere. But why not having an emergency release system in the first place is absolutely beyond me. it is a strange omission from a platform that claims "the security of our users is indeed our top priority" as quoted by Vince. However, I will mention they are planning on adding an emergency unlock option with a password. This would be fine, expect it has been in their backlog for **over 2 years**. On top of this, one of the head mods of Chaster does not even think it should be an option at all.
+At the very least, it is good that their is the option of going to the moderator team to ask for a code if need be. It is worth mentioning that reaching out to the moderation team is not very clearly listed anywhere. But why not having an emergency release system in the first place is absolutely beyond me. It is a strange omission from a platform that claims "the security of our users is indeed our top priority" as quoted by Vince. However, I will mention they are planning on adding an emergency unlock option with a password. This would be fine, expect it has been in their backlog for **over 2 years**. On top of this, one of the head mods of Chaster does not even think it should be an option at all.
 
 ![The suggestion on their feedbacks site asking for an emergency password](https://cdn.discordapp.com/attachments/833171605366243330/1121914696325406862/brave_hmBfNkJDKO.png)
 
@@ -77,7 +77,7 @@ Lastly, I want to mention the option to submit your own code is "planned". This 
 
 <h1 align="center">The Handling of Findom Locks</h1>
 
-Another recent issue Chaster has had has been Findom locks. If you do not know what Findom is that is okay! The first screen shot gives a good explainer of what it is better then I could probably put it
+Another recent issue Chaster has had has been Findom locks. If you have no idea what a Findom is, that is okay! The first screen shot gives a good explainer of what a Findom is better then I can explain it.
 
 ![findom explained from the urban dictionary](https://cdn.discordapp.com/attachments/833171605366243330/1121936387558608907/brave_BrzA2JswBR.png)
 
@@ -85,16 +85,15 @@ And here is how Chaster is handling the problem:
 
 ![Chaster's announcement about how they are handling it, this can be found on their website under the change log tab](https://cdn.discordapp.com/attachments/833171605366243330/1121936612390092850/Discord_PP9mWkzFxG.png)
 
-I will be upfront and say that I am not into Findom and I have not used Chaster for the past few months for the reasons listed above and below. I am however a little septical about how they are handling this change. Mainly about this part: 
+I will be upfront and say that I am not into Findom and I have not used Chaster for the past few months for the reasons listed above and below. I am however a bit septical about how they are handling this, mainly this part: 
 
-![Findoms are required to be apart of chaster plus](https://cdn.discordapp.com/attachments/833171605366243330/1121941523110567936/brave_yP4EKl3jcK.png)
+![Findoms are required to be apart of chaster plus](https://cdn.discordapp.com/attachments/833171605366243330/1122644847279480912/brave_cBu1ksPGlJ.png)
 
-If their is money to be made then buying this is just the cost of doing business. I say this because it feels like the move [twitter did with the blue check mark](https://www.usatoday.com/story/tech/2022/11/14/twitter-parody-accounts-cause-chaos/10696646002/). If a scammer needs to spend a little money to make a lot of money it is just the cost of doing businesses. Not only this but it also might make scammers harder to tell from real people because they might fall into the trap of thinking every user who pays is a legitimate user. 
+If their is money to be made, then buying Chaster plus is just the cost of doing business. I say this because this feels like the move [twitter did with the blue check mark](https://www.usatoday.com/story/tech/2022/11/14/twitter-parody-accounts-cause-chaos/10696646002/). If a scammer needs to spend a little money to make a lot of money tghen this is just the cost of doing businesses. In turn, this also might make the scammers harder to tell from real Findoms because users might think that every user who pays for Chaster Plus is a legitimate Findom. 
 
-This choice just feels pushed and I am not sure its the best option to go about this. Sure it could be seen better then outright banning it from the platform but Chaster is restrictive about it. They also state that if someone reaches out who is marked as a findom, meaning they have ANY lock marked as such then they could get their account terminated for it. I have one friend who is into Findom and their option is "its stupid" and they also agreed that making findoms pay for it does not make findoms any better.
+Solving this issue this way just feels rushed and I am unsure this is the best option to tackle this issue. This could be seen as a better approach then outright banning the Findoms from using the platform but, Chaster is still really restrictive about it. They also state that if a marked Findom reaches out to you first, then they could get their account terminated. I asked a friend of mine who does Findom sometimes and their opinion on the matter? Not only did they stay "its stupid" but they also agreed that bad actors can pay for Chaster plus and that it might cause users to mistake them as trust worthy Findoms.
 
-This does not even mention that you could pay for it just to get no one to use your locks. Nor could you reach out even unrelated for risk of being terminated. I do think making locks more clear that they are findom lock is a good change but only time will tell if this change works well for the better as it has yet to fully take affect. If you want to learn more about this change I also highly recommend looking at their [documentation and faq](https://docs.chaster.app/locks/findom/) on findom. 
-
+Not to mention you could pay for Chaster plus and have no one even use any of your locks. Nor could you reach out to other users for risk of being terminated. I do think making locks more clear that they are Findom locks is a good change. Only time will tell if this change works out as intended as currently the deadline has not been reached. If you want to learn more about these changes I highly recommend looking at their [documentation and faq](https://docs.chaster.app/locks/findom/) on the subject.
 
 <h1 align="center">Chaster's Lack of Communication</h1>
 
